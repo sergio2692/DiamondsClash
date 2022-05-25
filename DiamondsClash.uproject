@@ -28,11 +28,11 @@
 			]
 		},
 		{
-			"Name": "OnlineSubsystemEOS",
+			"Name": "OnlineServicesEOS",
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineServicesEOS",
+			"Name": "OnlineSubsystemEOS",
 			"Enabled": true
 		}
 	]
